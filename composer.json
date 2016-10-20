@@ -1,0 +1,11 @@
+{
+    "name": "vendor/yii2-app2",
+    "description": "Description of project Yii2App2.",
+    "authors": [
+        {
+            "name": "Abdeen",
+            "email": "your@email.here"
+        }
+    ],
+    "require": {}
+}
